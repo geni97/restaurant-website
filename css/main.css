@@ -274,8 +274,13 @@ footer {
     padding-bottom: 0.7em;
   }
 
+  nav ul {
+    width: 100%;
+  }
+
   nav li a:hover {
     color: white;
+    background-color: darkgrey;
   }
 
   h1 {
@@ -284,6 +289,7 @@ footer {
     padding-left: 0.6em;
     padding-bottom: 0.5em;
   }
+
 
   .slogan {
     font-size: 4em;
