@@ -347,6 +347,8 @@ footer {
     margin-left: 25rem;
   }
 
+}
+
 @media only screen and (min-width: 60em) {
 
   html {
@@ -467,6 +469,8 @@ footer {
   .social {
     padding-left: 15em;
   }
+
+}
 
 @media only screen and (min-width: 90em) {
 
