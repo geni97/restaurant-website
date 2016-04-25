@@ -289,7 +289,6 @@ footer {
     padding-bottom: 0.5em;
   }
 
-
   .slogan {
     font-size: 4em;
   }
@@ -504,9 +503,9 @@ footer {
   }
 
   .card-2 {
-  padding-left: 2.2em;
-  padding-bottom: 7.6em;
-  padding-top: 7em;
+    padding-left: 2.2em;
+    padding-bottom: 7.6em;
+    padding-top: 7em;
   }
 
   .card-3 {
@@ -539,7 +538,6 @@ footer {
   .circle {
     width: 50%;
   }
-
 
   h2 {
     font-size: 5em;
