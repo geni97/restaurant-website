@@ -68,8 +68,11 @@ nav {
   border-radius: 8px;
   display: inline-block;
   padding: 1em;
-  margin-left: 30%;
   margin-bottom: 2rem;
+}
+
+.banner {
+  text-align: center;
 }
 
 .btn:hover {
@@ -234,10 +237,6 @@ footer {
     padding-left: 2.5em;
   }
 
-  .btn {
-    margin-left: 8.5em;
-  }
-
   .hexagon {
     margin-left: 8em;
   }
@@ -301,7 +300,6 @@ footer {
 
   .btn {
     font-size: 1.5em;
-    margin-left: 7.5em;
   }
 
   .hex {
@@ -370,10 +368,6 @@ footer {
 
   .banner-text {
     font-size: 2.5em;
-  }
-
-  .btn {
-    margin-left: 13em;
   }
 
   .card-1 {
@@ -497,7 +491,6 @@ footer {
   }
 
   .btn {
-    margin-left: 13.5em;
     font-size: 2rem;
   }
 
