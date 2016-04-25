@@ -347,7 +347,7 @@ footer {
     margin-left: 25rem;
   }
 
-  @media only screen and (min-width: 60em) {
+@media only screen and (min-width: 60em) {
 
   html {
     font-size: 120%;
@@ -468,7 +468,7 @@ footer {
     padding-left: 15em;
   }
 
-  @media only screen and (min-width: 90em) {
+@media only screen and (min-width: 90em) {
 
   html {
     font-size: 130%;
@@ -571,3 +571,5 @@ footer {
   .about {
     font-size: 2rem;
   }
+
+}
